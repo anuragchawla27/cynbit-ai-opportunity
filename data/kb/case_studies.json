@@ -1,0 +1,15 @@
+[
+  {"client": "WizHealth", "industry": "healthcare", "service": "software", "ai": true, "title": "AI Diagnostic Triage: Enhancing Medical Efficiency", "tags": ["ai", "triage", "healthcare", "classification", "diagnostic"]},
+  {"client": "Pragya Healths", "industry": "healthcare", "service": "software", "ai": false, "title": "IoT Remote Patient Monitoring for Rural Health", "tags": ["iot", "monitoring", "healthcare", "rural", "sensors"]},
+  {"client": "Wild Basil", "industry": "food", "service": "software", "ai": false, "title": "Blockchain-Lite Transparency for Sustainable Food", "tags": ["blockchain", "supply chain", "traceability", "food"]},
+  {"client": "Sofiasa", "industry": "enterprise", "service": "software", "ai": false, "title": "Modernizing Legacy ERP for the Digital Era", "tags": ["erp", "legacy", "migration", "modernization"]},
+  {"client": "EContentPrep", "industry": "education", "service": "software", "ai": true, "title": "AI-Driven Adaptive Learning Pathways for EdTech", "tags": ["ai", "adaptive learning", "edtech", "students", "recommendation"]},
+  {"client": "Cloudy Tales", "industry": "media", "service": "cloud", "ai": false, "title": "Real-time Collaborative Engine for Digital Storytellers", "tags": ["realtime", "collaboration", "websocket", "cloud"]},
+  {"client": "Urban Wardrobe", "industry": "fashion", "service": "software", "ai": false, "title": "AR Virtual Try-On: Redefining the Fashion Experience", "tags": ["ar", "fashion", "ecommerce", "try-on"]},
+  {"client": "Evento", "industry": "entertainment", "service": "software", "ai": false, "title": "Scaling Real-time Ticketing for Major Entertainment", "tags": ["ticketing", "scale", "realtime", "events"]},
+  {"client": "Marketing Addict", "industry": "marketing", "service": "marketing", "ai": true, "title": "AI-Powered Campaign Optimization for Global Marketing", "tags": ["ai", "marketing", "campaign", "ads", "optimization"]},
+  {"client": "EliteVogue", "industry": "fashion", "service": "software", "ai": false, "title": "Next-Gen Headless Commerce for Global Fashion", "tags": ["headless", "commerce", "ecommerce", "fashion", "storefront"]},
+  {"client": "TrendMart", "industry": "retail", "service": "marketing", "ai": false, "title": "Hyper-local SEO strategy yields record organic growth for retail chain", "tags": ["seo", "local", "retail", "organic", "growth"]},
+  {"client": "CarePlus Health", "industry": "healthcare", "service": "cloud", "ai": false, "title": "Migrating critical health data to the cloud with zero downtime", "tags": ["cloud", "migration", "healthcare", "data", "downtime"]},
+  {"client": "GlobalPay", "industry": "fintech", "service": "software", "ai": false, "title": "Revolutionizing cross-border payments for the next billion users", "tags": ["payments", "fintech", "cross-border", "remittance"]}
+]
