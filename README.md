@@ -20,7 +20,7 @@ Author: Anurag Chawla.
 2. **Triage a client inquiry:** rule-based lead score with breakdown, ML probabilities (Cold/Warm/Hot), similar past case studies, and a discovery-call brief.
 3. **BitElevate track match:** recommends one of the 16 tracks and a duration for a student.
 
-No API key is needed. Everything runs offline.
+No API key is needed. Everything runs offline
 
 ## Quick start
 
